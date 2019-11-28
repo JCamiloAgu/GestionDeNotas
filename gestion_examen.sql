@@ -17,6 +17,7 @@ if object_id('exams') is null
 begin
   create table exams(
     id int identity primary key not null,
+    num_exam int not null,
     num_questions int not null,
     date date not null
   )
@@ -43,7 +44,7 @@ end
 if object_id('teachers') is null
 begin
   create table teachers(
-    id int identity primary key not null,
+    id int primary key not null,
     name varchar(50) not null
   )
 end

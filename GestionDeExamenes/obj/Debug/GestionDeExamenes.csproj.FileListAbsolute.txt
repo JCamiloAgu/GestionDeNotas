@@ -1,0 +1,8 @@
+E:\Mega\software\proyects\.net\GestionDeNotas\GestionDeExamenes\bin\Debug\GestionDeExamenes.exe.config
+E:\Mega\software\proyects\.net\GestionDeNotas\GestionDeExamenes\bin\Debug\GestionDeExamenes.exe
+E:\Mega\software\proyects\.net\GestionDeNotas\GestionDeExamenes\bin\Debug\GestionDeExamenes.pdb
+E:\Mega\software\proyects\.net\GestionDeNotas\GestionDeExamenes\obj\Debug\GestionDeExamenes.csprojAssemblyReference.cache
+E:\Mega\software\proyects\.net\GestionDeNotas\GestionDeExamenes\obj\Debug\GestionDeExamenes.Properties.Resources.resources
+E:\Mega\software\proyects\.net\GestionDeNotas\GestionDeExamenes\obj\Debug\GestionDeExamenes.csproj.GenerateResource.cache
+E:\Mega\software\proyects\.net\GestionDeNotas\GestionDeExamenes\obj\Debug\GestionDeExamenes.exe
+E:\Mega\software\proyects\.net\GestionDeNotas\GestionDeExamenes\obj\Debug\GestionDeExamenes.pdb

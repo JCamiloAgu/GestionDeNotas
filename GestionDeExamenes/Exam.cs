@@ -8,8 +8,9 @@ namespace GestionDeExamenes
 {
     class Exam
     {
-        public int examNumber { get; set; }
-        public string questionsNumber { get; set; }
-        public DateTime date { get; set; }
+      public int idExam { get; set; }
+			public int examNumber { get; set; }
+			public string questionsNumber { get; set; }
+      public DateTime date { get; set; }
     }
 }
