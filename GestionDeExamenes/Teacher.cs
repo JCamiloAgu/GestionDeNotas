@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace GestionDeExamenes
 {
-    class Student
+    class Teacher
     {
-        public int regNumber { get; set; }
-        public string name { get; set; }
-        public int group { get; set; }
+        public int dni { get; set; }
+        public string name{ get; set; }
     }
 }

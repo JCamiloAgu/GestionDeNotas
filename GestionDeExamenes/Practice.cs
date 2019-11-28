@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace GestionDeExamenes
 {
-    class Student
+    class Practice
     {
-        public int regNumber { get; set; }
-        public string name { get; set; }
-        public int group { get; set; }
+        public int codPractice { get; set; }
+        public string title { get; set; }
+        public string difficulty { get; set; }
     }
 }
