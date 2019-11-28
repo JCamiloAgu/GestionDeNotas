@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Documents\GestionDeExamenes\GestionDeExamenes\bin\Debug\GestionDeExamenes.exe.config
+C:\Users\Aprendiz\Documents\GestionDeExamenes\GestionDeExamenes\bin\Debug\GestionDeExamenes.exe
+C:\Users\Aprendiz\Documents\GestionDeExamenes\GestionDeExamenes\bin\Debug\GestionDeExamenes.pdb
+C:\Users\Aprendiz\Documents\GestionDeExamenes\GestionDeExamenes\obj\Debug\GestionDeExamenes.csprojAssemblyReference.cache
+C:\Users\Aprendiz\Documents\GestionDeExamenes\GestionDeExamenes\obj\Debug\GestionDeExamenes.Form1.resources
+C:\Users\Aprendiz\Documents\GestionDeExamenes\GestionDeExamenes\obj\Debug\GestionDeExamenes.Properties.Resources.resources
+C:\Users\Aprendiz\Documents\GestionDeExamenes\GestionDeExamenes\obj\Debug\GestionDeExamenes.csproj.GenerateResource.cache
+C:\Users\Aprendiz\Documents\GestionDeExamenes\GestionDeExamenes\obj\Debug\GestionDeExamenes.exe
+C:\Users\Aprendiz\Documents\GestionDeExamenes\GestionDeExamenes\obj\Debug\GestionDeExamenes.pdb
